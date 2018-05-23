@@ -3,3 +3,4 @@ cmd/shift/3 = screenshot
 shift/t = convert from rtf to txt and vice versa
 command shift a = highlight all
 command (arrow) = takes you to the beginning of whichever direction arrow you select
+changes required
